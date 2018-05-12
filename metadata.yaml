@@ -1,0 +1,41 @@
+_repo: Marcy-The-Blockade-Runner_29387
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: White, George G. (George Gorgas)
+    aliases:
+    - White, George Gorgas
+    - White, G. G.
+    deathdate: 1898
+    gutenberg_agent_id: '33888'
+    url: http://www.gutenberg.org/2009/agents/33888
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29387'
+  lccn: '12031262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Blockades -- Juvenile
+  fiction'
+title: Marcy the Blockade Runner
+url: http://www.gutenberg.org/ebooks/29387
